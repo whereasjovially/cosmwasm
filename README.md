@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/CosmWasm/cosmwasm/tree/main.svg?style=shield)](https://circleci.com/gh/CosmWasm/cosmwasm/tree/main)
 
-**WebAssembly Smart Contracts for the Cosmos SDK.**
+**WebAssembly Smart Contracts for the Cosmos SDK.** 
 
 ## Packages
 
